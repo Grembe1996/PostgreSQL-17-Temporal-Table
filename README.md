@@ -11,8 +11,8 @@ Das Projekt zeigt, wie man temporale Datenbanken mit Standard-PostgreSQL-Funktio
 
 Die Strukturierung dieses Repositories ist dabei wie folgt:
 
-CREATE_Temporal_Table beschreibt die Erstellung der Tabelle
-INSERT_Temporal_Table beschreibt die Befüllung der Tabelle mit Daten
-UPDATE_SELECT_Temporal_Table beschreibt ausgeführte Update-Operationen auf die Tabelle und die dadurch entstehenden historischen Datensätzen
-DELETE_Temporal_Table zeigt eine logische Löschung eines Datensatzes
-CONSTRAINT_Temporal_Table veranschaulicht das Konzept der Temporal Constraints 
+1. CREATE_Temporal_Table beschreibt die Erstellung der Tabelle
+2. INSERT_Temporal_Table beschreibt die Befüllung der Tabelle mit Daten
+3. UPDATE_SELECT_Temporal_Table beschreibt ausgeführte Update-Operationen auf die Tabelle und die dadurch entstehenden historischen Datensätzen
+4. DELETE_Temporal_Table zeigt eine logische Löschung eines Datensatzes
+5. CONSTRAINT_Temporal_Table veranschaulicht das Konzept der Temporal Constraints 
